@@ -9,14 +9,7 @@
             "request": "launch",
             "name": "Launch Chrome",
             "url": "http://localhost:3000",
-            "webRoot": "${workspaceFolder}/src"
-        },
-        {
-            "type": "chrome",
-            "request": "launch",
-            "name": "Launch Chrome",
-            "url": "http://localhost:3000",
-            "webRoot": "${workspaceFolder}/src"
+            "webRoot": "${workspaceFolder}"
         }
     ]
 }
